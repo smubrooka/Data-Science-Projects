@@ -1,0 +1,658 @@
+state,age_bucket,disability,participant_count
+ACT,0-14,Autism,79965
+ACT,0-14,Cerebral Palsy,4095
+ACT,0-14,Developmental delay,46140
+ACT,0-14,Down Syndrome,2017
+ACT,0-14,Global developmental delay,8211
+ACT,0-14,Hearing Impairment,6138
+ACT,0-14,Intellectual Disability,13472
+ACT,0-14,Other,1028
+ACT,0-14,Other Neurological,1469
+ACT,0-14,Other Physical,1872
+ACT,0-14,Other Sensory/Speech,1108
+ACT,0-14,Visual Impairment,681
+ACT,15-24,ABI,166
+ACT,15-24,Autism,53657
+ACT,15-24,Cerebral Palsy,4547
+ACT,15-24,Down Syndrome,2668
+ACT,15-24,Hearing Impairment,3816
+ACT,15-24,Intellectual Disability,17891
+ACT,15-24,Other Neurological,1514
+ACT,15-24,Other Physical,2258
+ACT,15-24,Other Sensory/Speech,382
+ACT,15-24,Psychosocial disability,2424
+ACT,15-24,Visual Impairment,1128
+ACT,25-34,ABI,1205
+ACT,25-34,Autism,17534
+ACT,25-34,Cerebral Palsy,3290
+ACT,25-34,Down Syndrome,1952
+ACT,25-34,Hearing Impairment,2362
+ACT,25-34,Intellectual Disability,10119
+ACT,25-34,Multiple Sclerosis,58
+ACT,25-34,Other Neurological,852
+ACT,25-34,Other Physical,2092
+ACT,25-34,Psychosocial disability,7995
+ACT,25-34,Visual Impairment,1128
+ACT,35-54,ABI,4608
+ACT,35-54,Autism,10414
+ACT,35-54,Cerebral Palsy,3828
+ACT,35-54,Down Syndrome,3649
+ACT,35-54,Hearing Impairment,4252
+ACT,35-54,Intellectual Disability,13939
+ACT,35-54,Multiple Sclerosis,6063
+ACT,35-54,Other,1688
+ACT,35-54,Other Neurological,5671
+ACT,35-54,Other Physical,9150
+ACT,35-54,Psychosocial disability,26643
+ACT,35-54,Spinal Cord Injury,2037
+ACT,35-54,Stroke,1218
+ACT,35-54,Visual Impairment,2640
+ACT,55+,ABI,5585
+ACT,55+,Autism,13668
+ACT,55+,Cerebral Palsy,1926
+ACT,55+,Developmental delay,6848
+ACT,55+,Down Syndrome,1205
+ACT,55+,Global developmental delay,1308
+ACT,55+,Hearing Impairment,5742
+ACT,55+,Intellectual Disability,9430
+ACT,55+,Multiple Sclerosis,7327
+ACT,55+,Other,4259
+ACT,55+,Other Neurological,13129
+ACT,55+,Other Physical,14146
+ACT,55+,Other Sensory/Speech,94
+ACT,55+,Psychosocial disability,19245
+ACT,55+,Spinal Cord Injury,2325
+ACT,55+,Stroke,6681
+ACT,55+,Visual Impairment,3467
+ALL,0-14,ABI,24720
+ALL,0-14,Autism,5435362
+ALL,0-14,Cerebral Palsy,274220
+ALL,0-14,Developmental delay,2962030
+ALL,0-14,Down Syndrome,121344
+ALL,0-14,Global developmental delay,638937
+ALL,0-14,Hearing Impairment,399703
+ALL,0-14,Intellectual Disability,746277
+ALL,0-14,Other,74127
+ALL,0-14,Other Neurological,96810
+ALL,0-14,Other Physical,77201
+ALL,0-14,Other Sensory/Speech,46329
+ALL,0-14,Psychosocial disability,4018
+ALL,0-14,Spinal Cord Injury,1795
+ALL,0-14,Stroke,2208
+ALL,0-14,Visual Impairment,40768
+ALL,15-24,ABI,43698
+ALL,15-24,Autism,3184229
+ALL,15-24,Cerebral Palsy,211774
+ALL,15-24,Developmental delay,354
+ALL,15-24,Down Syndrome,103325
+ALL,15-24,DsbltyGrp_Missing,302
+ALL,15-24,Global developmental delay,169
+ALL,15-24,Hearing Impairment,207970
+ALL,15-24,Intellectual Disability,1168360
+ALL,15-24,Multiple Sclerosis,1693
+ALL,15-24,Other,15192
+ALL,15-24,Other Neurological,97363
+ALL,15-24,Other Physical,66237
+ALL,15-24,Other Sensory/Speech,13455
+ALL,15-24,Psychosocial disability,85351
+ALL,15-24,Spinal Cord Injury,7145
+ALL,15-24,Stroke,3078
+ALL,15-24,Visual Impairment,49384
+ALL,25-34,ABI,85492
+ALL,25-34,Autism,762861
+ALL,25-34,Cerebral Palsy,157423
+ALL,25-34,Down Syndrome,115780
+ALL,25-34,DsbltyGrp_Missing,153
+ALL,25-34,Hearing Impairment,141239
+ALL,25-34,Intellectual Disability,816719
+ALL,25-34,Multiple Sclerosis,18923
+ALL,25-34,Other,21651
+ALL,25-34,Other Neurological,77859
+ALL,25-34,Other Physical,70101
+ALL,25-34,Other Sensory/Speech,1065
+ALL,25-34,Psychosocial disability,419133
+ALL,25-34,Spinal Cord Injury,22913
+ALL,25-34,Stroke,6198
+ALL,25-34,Visual Impairment,45386
+ALL,35-54,ABI,373117
+ALL,35-54,Autism,436063
+ALL,35-54,Cerebral Palsy,229521
+ALL,35-54,Down Syndrome,169058
+ALL,35-54,DsbltyGrp_Missing,320
+ALL,35-54,Hearing Impairment,244633
+ALL,35-54,Intellectual Disability,1043459
+ALL,35-54,Multiple Sclerosis,249422
+ALL,35-54,Other,118364
+ALL,35-54,Other Neurological,279099
+ALL,35-54,Other Physical,323942
+ALL,35-54,Other Sensory/Speech,1030
+ALL,35-54,Psychosocial disability,1497725
+ALL,35-54,Spinal Cord Injury,132042
+ALL,35-54,Stroke,129186
+ALL,35-54,Visual Impairment,150991
+ALL,55+,ABI,440088
+ALL,55+,Autism,915294
+ALL,55+,Cerebral Palsy,147932
+ALL,55+,Developmental delay,466176
+ALL,55+,Down Syndrome,63852
+ALL,55+,DsbltyGrp_Missing,2692
+ALL,55+,Global developmental delay,99044
+ALL,55+,Hearing Impairment,330273
+ALL,55+,Intellectual Disability,781944
+ALL,55+,Multiple Sclerosis,335615
+ALL,55+,Other,244202
+ALL,55+,Other Neurological,723575
+ALL,55+,Other Physical,606600
+ALL,55+,Other Sensory/Speech,7278
+ALL,55+,Psychosocial disability,1055581
+ALL,55+,Spinal Cord Injury,168209
+ALL,55+,Stroke,380874
+ALL,55+,Visual Impairment,209811
+NSW,0-14,ABI,8092
+NSW,0-14,Autism,1503750
+NSW,0-14,Cerebral Palsy,82159
+NSW,0-14,Developmental delay,706515
+NSW,0-14,Down Syndrome,38278
+NSW,0-14,Global developmental delay,217910
+NSW,0-14,Hearing Impairment,120550
+NSW,0-14,Intellectual Disability,219376
+NSW,0-14,Other,25027
+NSW,0-14,Other Neurological,28570
+NSW,0-14,Other Physical,22289
+NSW,0-14,Other Sensory/Speech,18281
+NSW,0-14,Psychosocial disability,2184
+NSW,0-14,Spinal Cord Injury,394
+NSW,0-14,Stroke,394
+NSW,0-14,Visual Impairment,15509
+NSW,15-24,ABI,14587
+NSW,15-24,Autism,870194
+NSW,15-24,Cerebral Palsy,68937
+NSW,15-24,Developmental delay,60
+NSW,15-24,Down Syndrome,33016
+NSW,15-24,DsbltyGrp_Missing,22
+NSW,15-24,Hearing Impairment,62601
+NSW,15-24,Intellectual Disability,349057
+NSW,15-24,Multiple Sclerosis,534
+NSW,15-24,Other,4989
+NSW,15-24,Other Neurological,32655
+NSW,15-24,Other Physical,21639
+NSW,15-24,Other Sensory/Speech,5256
+NSW,15-24,Psychosocial disability,32151
+NSW,15-24,Spinal Cord Injury,2470
+NSW,15-24,Stroke,1112
+NSW,15-24,Visual Impairment,18729
+NSW,25-34,ABI,25257
+NSW,25-34,Autism,219520
+NSW,25-34,Cerebral Palsy,58042
+NSW,25-34,Down Syndrome,40973
+NSW,25-34,Hearing Impairment,47229
+NSW,25-34,Intellectual Disability,259190
+NSW,25-34,Multiple Sclerosis,5228
+NSW,25-34,Other,6299
+NSW,25-34,Other Neurological,24049
+NSW,25-34,Other Physical,23136
+NSW,25-34,Other Sensory/Speech,487
+NSW,25-34,Psychosocial disability,119318
+NSW,25-34,Spinal Cord Injury,7472
+NSW,25-34,Stroke,2229
+NSW,25-34,Visual Impairment,16004
+NSW,35-54,ABI,99273
+NSW,35-54,Autism,100141
+NSW,35-54,Cerebral Palsy,75159
+NSW,35-54,Down Syndrome,56367
+NSW,35-54,DsbltyGrp_Missing,86
+NSW,35-54,Hearing Impairment,77981
+NSW,35-54,Intellectual Disability,327758
+NSW,35-54,Multiple Sclerosis,69864
+NSW,35-54,Other,34584
+NSW,35-54,Other Neurological,82951
+NSW,35-54,Other Physical,93919
+NSW,35-54,Psychosocial disability,432234
+NSW,35-54,Spinal Cord Injury,43371
+NSW,35-54,Stroke,46550
+NSW,35-54,Visual Impairment,47193
+NSW,55+,ABI,121129
+NSW,55+,Autism,255809
+NSW,55+,Cerebral Palsy,45515
+NSW,55+,Developmental delay,113806
+NSW,55+,Down Syndrome,21454
+NSW,55+,DsbltyGrp_Missing,808
+NSW,55+,Global developmental delay,36575
+NSW,55+,Hearing Impairment,106705
+NSW,55+,Intellectual Disability,249013
+NSW,55+,Multiple Sclerosis,91619
+NSW,55+,Other,77219
+NSW,55+,Other Neurological,238354
+NSW,55+,Other Physical,176699
+NSW,55+,Other Sensory/Speech,2388
+NSW,55+,Psychosocial disability,329189
+NSW,55+,Spinal Cord Injury,57790
+NSW,55+,Stroke,132169
+NSW,55+,Visual Impairment,65999
+NT,0-14,Autism,38009
+NT,0-14,Cerebral Palsy,2610
+NT,0-14,Developmental delay,35537
+NT,0-14,Down Syndrome,938
+NT,0-14,Global developmental delay,8044
+NT,0-14,Hearing Impairment,2641
+NT,0-14,Intellectual Disability,13772
+NT,0-14,Other,363
+NT,0-14,Other Neurological,745
+NT,0-14,Other Physical,457
+NT,0-14,Other Sensory/Speech,353
+NT,15-24,ABI,413
+NT,15-24,Autism,14827
+NT,15-24,Cerebral Palsy,1559
+NT,15-24,Down Syndrome,821
+NT,15-24,Hearing Impairment,917
+NT,15-24,Intellectual Disability,16865
+NT,15-24,Other Neurological,751
+NT,15-24,Psychosocial disability,762
+NT,25-34,ABI,1243
+NT,25-34,Autism,3014
+NT,25-34,Cerebral Palsy,1328
+NT,25-34,Down Syndrome,991
+NT,25-34,Hearing Impairment,614
+NT,25-34,Intellectual Disability,5554
+NT,25-34,Other Neurological,388
+NT,25-34,Other Physical,447
+NT,25-34,Psychosocial disability,5897
+NT,25-34,Spinal Cord Injury,236
+NT,35-54,ABI,7303
+NT,35-54,Autism,2200
+NT,35-54,Cerebral Palsy,2144
+NT,35-54,Down Syndrome,1126
+NT,35-54,Hearing Impairment,1361
+NT,35-54,Intellectual Disability,6746
+NT,35-54,Other,2642
+NT,35-54,Other Neurological,2203
+NT,35-54,Other Physical,2442
+NT,35-54,Psychosocial disability,15743
+NT,35-54,Spinal Cord Injury,1400
+NT,35-54,Stroke,2774
+NT,35-54,Visual Impairment,424
+NT,55+,ABI,4510
+NT,55+,Autism,5835
+NT,55+,Cerebral Palsy,718
+NT,55+,Developmental delay,4847
+NT,55+,Down Syndrome,120
+NT,55+,Global developmental delay,1414
+NT,55+,Hearing Impairment,1899
+NT,55+,Intellectual Disability,4104
+NT,55+,Other,3272
+NT,55+,Other Neurological,5399
+NT,55+,Other Physical,4248
+NT,55+,Psychosocial disability,4571
+NT,55+,Spinal Cord Injury,1358
+NT,55+,Stroke,5703
+NT,55+,Visual Impairment,896
+OT,0-14,Autism,555
+OT,55+,Autism,94
+QLD,0-14,ABI,6594
+QLD,0-14,Autism,1252222
+QLD,0-14,Cerebral Palsy,66873
+QLD,0-14,Developmental delay,706818
+QLD,0-14,Down Syndrome,27238
+QLD,0-14,Global developmental delay,127023
+QLD,0-14,Hearing Impairment,102623
+QLD,0-14,Intellectual Disability,147714
+QLD,0-14,Other,17644
+QLD,0-14,Other Neurological,21446
+QLD,0-14,Other Physical,18883
+QLD,0-14,Other Sensory/Speech,4566
+QLD,0-14,Psychosocial disability,513
+QLD,0-14,Spinal Cord Injury,293
+QLD,0-14,Stroke,292
+QLD,0-14,Visual Impairment,6494
+QLD,15-24,ABI,11481
+QLD,15-24,Autism,749328
+QLD,15-24,Cerebral Palsy,45226
+QLD,15-24,Down Syndrome,24385
+QLD,15-24,DsbltyGrp_Missing,87
+QLD,15-24,Hearing Impairment,51534
+QLD,15-24,Intellectual Disability,223280
+QLD,15-24,Other,3557
+QLD,15-24,Other Neurological,22755
+QLD,15-24,Other Physical,17098
+QLD,15-24,Other Sensory/Speech,1147
+QLD,15-24,Psychosocial disability,15051
+QLD,15-24,Spinal Cord Injury,1689
+QLD,15-24,Stroke,394
+QLD,15-24,Visual Impairment,7847
+QLD,25-34,ABI,22538
+QLD,25-34,Autism,170182
+QLD,25-34,Cerebral Palsy,30785
+QLD,25-34,Down Syndrome,25404
+QLD,25-34,Hearing Impairment,27915
+QLD,25-34,Intellectual Disability,147841
+QLD,25-34,Multiple Sclerosis,3372
+QLD,25-34,Other,6567
+QLD,25-34,Other Neurological,18181
+QLD,25-34,Other Physical,17157
+QLD,25-34,Psychosocial disability,84794
+QLD,25-34,Spinal Cord Injury,6819
+QLD,25-34,Stroke,1427
+QLD,25-34,Visual Impairment,8386
+QLD,35-54,ABI,86622
+QLD,35-54,Autism,102812
+QLD,35-54,Cerebral Palsy,48653
+QLD,35-54,Down Syndrome,34835
+QLD,35-54,DsbltyGrp_Missing,33
+QLD,35-54,Hearing Impairment,53361
+QLD,35-54,Intellectual Disability,192324
+QLD,35-54,Multiple Sclerosis,43585
+QLD,35-54,Other,30965
+QLD,35-54,Other Neurological,63879
+QLD,35-54,Other Physical,79816
+QLD,35-54,Psychosocial disability,297384
+QLD,35-54,Spinal Cord Injury,38626
+QLD,35-54,Stroke,29897
+QLD,35-54,Visual Impairment,30278
+QLD,55+,ABI,97097
+QLD,55+,Autism,207466
+QLD,55+,Cerebral Palsy,33113
+QLD,55+,Developmental delay,110937
+QLD,55+,Down Syndrome,12456
+QLD,55+,DsbltyGrp_Missing,436
+QLD,55+,Global developmental delay,18837
+QLD,55+,Hearing Impairment,79036
+QLD,55+,Intellectual Disability,142708
+QLD,55+,Multiple Sclerosis,57844
+QLD,55+,Other,56495
+QLD,55+,Other Neurological,152858
+QLD,55+,Other Physical,152382
+QLD,55+,Other Sensory/Speech,604
+QLD,55+,Psychosocial disability,194999
+QLD,55+,Spinal Cord Injury,47347
+QLD,55+,Stroke,87594
+QLD,55+,Visual Impairment,38608
+SA,0-14,ABI,1040
+SA,0-14,Autism,524929
+SA,0-14,Cerebral Palsy,17280
+SA,0-14,Developmental delay,205149
+SA,0-14,Down Syndrome,6537
+SA,0-14,Global developmental delay,85837
+SA,0-14,Hearing Impairment,26160
+SA,0-14,Intellectual Disability,55825
+SA,0-14,Other,3993
+SA,0-14,Other Neurological,5788
+SA,0-14,Other Physical,5551
+SA,0-14,Other Sensory/Speech,7429
+SA,0-14,Visual Impairment,2414
+SA,15-24,ABI,2914
+SA,15-24,Autism,344611
+SA,15-24,Cerebral Palsy,14565
+SA,15-24,Down Syndrome,6446
+SA,15-24,Hearing Impairment,15129
+SA,15-24,Intellectual Disability,103295
+SA,15-24,Other,1024
+SA,15-24,Other Neurological,5872
+SA,15-24,Other Physical,4522
+SA,15-24,Other Sensory/Speech,3967
+SA,15-24,Psychosocial disability,4098
+SA,15-24,Visual Impairment,3977
+SA,25-34,ABI,7031
+SA,25-34,Autism,72895
+SA,25-34,Cerebral Palsy,9596
+SA,25-34,Down Syndrome,4713
+SA,25-34,Hearing Impairment,8780
+SA,25-34,Intellectual Disability,66896
+SA,25-34,Multiple Sclerosis,1396
+SA,25-34,Other,737
+SA,25-34,Other Neurological,3855
+SA,25-34,Other Physical,4972
+SA,25-34,Psychosocial disability,22024
+SA,25-34,Spinal Cord Injury,1464
+SA,25-34,Stroke,474
+SA,25-34,Visual Impairment,3161
+SA,35-54,ABI,32927
+SA,35-54,Autism,51014
+SA,35-54,Cerebral Palsy,14708
+SA,35-54,Down Syndrome,11973
+SA,35-54,Hearing Impairment,16377
+SA,35-54,Intellectual Disability,100379
+SA,35-54,Multiple Sclerosis,18439
+SA,35-54,Other,7725
+SA,35-54,Other Neurological,19985
+SA,35-54,Other Physical,27170
+SA,35-54,Psychosocial disability,92840
+SA,35-54,Spinal Cord Injury,8463
+SA,35-54,Stroke,8756
+SA,35-54,Visual Impairment,11057
+SA,55+,ABI,46572
+SA,55+,Autism,87541
+SA,55+,Cerebral Palsy,11672
+SA,55+,Developmental delay,29353
+SA,55+,Down Syndrome,5406
+SA,55+,DsbltyGrp_Missing,191
+SA,55+,Global developmental delay,12715
+SA,55+,Hearing Impairment,23590
+SA,55+,Intellectual Disability,75214
+SA,55+,Multiple Sclerosis,33530
+SA,55+,Other,18783
+SA,55+,Other Neurological,57687
+SA,55+,Other Physical,56640
+SA,55+,Other Sensory/Speech,768
+SA,55+,Psychosocial disability,67542
+SA,55+,Spinal Cord Injury,12574
+SA,55+,Stroke,26971
+SA,55+,Visual Impairment,15789
+TAS,0-14,Autism,107694
+TAS,0-14,Cerebral Palsy,6031
+TAS,0-14,Developmental delay,42591
+TAS,0-14,Down Syndrome,2098
+TAS,0-14,Global developmental delay,9808
+TAS,0-14,Hearing Impairment,5733
+TAS,0-14,Intellectual Disability,20612
+TAS,0-14,Other,1482
+TAS,0-14,Other Neurological,1218
+TAS,0-14,Other Physical,791
+TAS,0-14,Other Sensory/Speech,446
+TAS,0-14,Visual Impairment,374
+TAS,15-24,ABI,713
+TAS,15-24,Autism,72357
+TAS,15-24,Cerebral Palsy,3571
+TAS,15-24,Down Syndrome,1880
+TAS,15-24,Hearing Impairment,2485
+TAS,15-24,Intellectual Disability,36137
+TAS,15-24,Other Neurological,1478
+TAS,15-24,Other Physical,904
+TAS,15-24,Psychosocial disability,2827
+TAS,15-24,Visual Impairment,179
+TAS,25-34,ABI,1824
+TAS,25-34,Autism,21648
+TAS,25-34,Cerebral Palsy,3970
+TAS,25-34,Down Syndrome,2890
+TAS,25-34,Hearing Impairment,2448
+TAS,25-34,Intellectual Disability,26902
+TAS,25-34,Multiple Sclerosis,363
+TAS,25-34,Other,331
+TAS,25-34,Other Neurological,1984
+TAS,25-34,Other Physical,1169
+TAS,25-34,Psychosocial disability,8560
+TAS,25-34,Spinal Cord Injury,525
+TAS,25-34,Visual Impairment,555
+TAS,35-54,ABI,10433
+TAS,35-54,Autism,10072
+TAS,35-54,Cerebral Palsy,6547
+TAS,35-54,Down Syndrome,3514
+TAS,35-54,Hearing Impairment,4473
+TAS,35-54,Intellectual Disability,25538
+TAS,35-54,Multiple Sclerosis,8019
+TAS,35-54,Other,2461
+TAS,35-54,Other Neurological,5846
+TAS,35-54,Other Physical,5631
+TAS,35-54,Psychosocial disability,27174
+TAS,35-54,Spinal Cord Injury,2047
+TAS,35-54,Stroke,2485
+TAS,35-54,Visual Impairment,2551
+TAS,55+,ABI,10633
+TAS,55+,Autism,17829
+TAS,55+,Cerebral Palsy,2270
+TAS,55+,Developmental delay,6776
+TAS,55+,Down Syndrome,1488
+TAS,55+,DsbltyGrp_Missing,36
+TAS,55+,Global developmental delay,1285
+TAS,55+,Hearing Impairment,6742
+TAS,55+,Intellectual Disability,22575
+TAS,55+,Multiple Sclerosis,13590
+TAS,55+,Other,6179
+TAS,55+,Other Neurological,15152
+TAS,55+,Other Physical,12255
+TAS,55+,Other Sensory/Speech,49
+TAS,55+,Psychosocial disability,16883
+TAS,55+,Spinal Cord Injury,1894
+TAS,55+,Stroke,6945
+TAS,55+,Visual Impairment,3803
+VIC,0-14,ABI,5755
+VIC,0-14,Autism,1478963
+VIC,0-14,Cerebral Palsy,63394
+VIC,0-14,Developmental delay,1045719
+VIC,0-14,Down Syndrome,31551
+VIC,0-14,Global developmental delay,125844
+VIC,0-14,Hearing Impairment,101396
+VIC,0-14,Intellectual Disability,219786
+VIC,0-14,Other,18038
+VIC,0-14,Other Neurological,28328
+VIC,0-14,Other Physical,20900
+VIC,0-14,Other Sensory/Speech,12013
+VIC,0-14,Psychosocial disability,1100
+VIC,0-14,Spinal Cord Injury,78
+VIC,0-14,Stroke,546
+VIC,0-14,Visual Impairment,12075
+VIC,15-24,ABI,8945
+VIC,15-24,Autism,771284
+VIC,15-24,Cerebral Palsy,48583
+VIC,15-24,Down Syndrome,23708
+VIC,15-24,DsbltyGrp_Missing,24
+VIC,15-24,Hearing Impairment,54689
+VIC,15-24,Intellectual Disability,313653
+VIC,15-24,Multiple Sclerosis,617
+VIC,15-24,Other,3069
+VIC,15-24,Other Neurological,23545
+VIC,15-24,Other Physical,13537
+VIC,15-24,Other Sensory/Speech,1945
+VIC,15-24,Psychosocial disability,21015
+VIC,15-24,Spinal Cord Injury,1150
+VIC,15-24,Stroke,690
+VIC,15-24,Visual Impairment,14090
+VIC,25-34,ABI,19017
+VIC,25-34,Autism,176676
+VIC,25-34,Cerebral Palsy,36261
+VIC,25-34,Down Syndrome,27377
+VIC,25-34,DsbltyGrp_Missing,38
+VIC,25-34,Hearing Impairment,40049
+VIC,25-34,Intellectual Disability,219717
+VIC,25-34,Multiple Sclerosis,6237
+VIC,25-34,Other,5701
+VIC,25-34,Other Neurological,20696
+VIC,25-34,Other Physical,15318
+VIC,25-34,Psychosocial disability,131047
+VIC,25-34,Spinal Cord Injury,3420
+VIC,25-34,Stroke,1551
+VIC,25-34,Visual Impairment,12678
+VIC,35-54,ABI,98209
+VIC,35-54,Autism,113703
+VIC,35-54,Cerebral Palsy,57613
+VIC,35-54,Down Syndrome,44332
+VIC,35-54,DsbltyGrp_Missing,97
+VIC,35-54,Hearing Impairment,66024
+VIC,35-54,Intellectual Disability,283542
+VIC,35-54,Multiple Sclerosis,82108
+VIC,35-54,Other,25041
+VIC,35-54,Other Neurological,70235
+VIC,35-54,Other Physical,76884
+VIC,35-54,Psychosocial disability,477443
+VIC,35-54,Spinal Cord Injury,19758
+VIC,35-54,Stroke,28112
+VIC,35-54,Visual Impairment,44512
+VIC,55+,ABI,119659
+VIC,55+,Autism,250165
+VIC,55+,Cerebral Palsy,40219
+VIC,55+,Developmental delay,161011
+VIC,55+,Down Syndrome,16881
+VIC,55+,DsbltyGrp_Missing,876
+VIC,55+,Global developmental delay,19215
+VIC,55+,Hearing Impairment,80714
+VIC,55+,Intellectual Disability,217364
+VIC,55+,Multiple Sclerosis,97668
+VIC,55+,Other,52606
+VIC,55+,Other Neurological,168750
+VIC,55+,Other Physical,134203
+VIC,55+,Other Sensory/Speech,1869
+VIC,55+,Psychosocial disability,336314
+VIC,55+,Spinal Cord Injury,27552
+VIC,55+,Stroke,85386
+VIC,55+,Visual Impairment,62584
+WA,0-14,ABI,2764
+WA,0-14,Autism,448771
+WA,0-14,Cerebral Palsy,31813
+WA,0-14,Developmental delay,173881
+WA,0-14,Down Syndrome,12684
+WA,0-14,Global developmental delay,57064
+WA,0-14,Hearing Impairment,34482
+WA,0-14,Intellectual Disability,55832
+WA,0-14,Other,6413
+WA,0-14,Other Neurological,8920
+WA,0-14,Other Physical,6112
+WA,0-14,Other Sensory/Speech,1763
+WA,0-14,Psychosocial disability,32
+WA,0-14,Visual Impairment,3081
+WA,15-24,ABI,4020
+WA,15-24,Autism,307266
+WA,15-24,Cerebral Palsy,24897
+WA,15-24,Down Syndrome,10656
+WA,15-24,Hearing Impairment,17054
+WA,15-24,Intellectual Disability,107567
+WA,15-24,Other,1926
+WA,15-24,Other Neurological,8930
+WA,15-24,Other Physical,5906
+WA,15-24,Other Sensory/Speech,176
+WA,15-24,Psychosocial disability,7041
+WA,15-24,Spinal Cord Injury,647
+WA,15-24,Visual Impairment,3074
+WA,25-34,ABI,7405
+WA,25-34,Autism,81304
+WA,25-34,Cerebral Palsy,14212
+WA,25-34,Down Syndrome,11504
+WA,25-34,Hearing Impairment,11831
+WA,25-34,Intellectual Disability,80436
+WA,25-34,Multiple Sclerosis,2413
+WA,25-34,Other,1695
+WA,25-34,Other Neurological,7808
+WA,25-34,Other Physical,5865
+WA,25-34,Psychosocial disability,39658
+WA,25-34,Spinal Cord Injury,2632
+WA,25-34,Visual Impairment,3368
+WA,35-54,ABI,33891
+WA,35-54,Autism,45922
+WA,35-54,Cerebral Palsy,20873
+WA,35-54,Down Syndrome,13304
+WA,35-54,Hearing Impairment,20988
+WA,35-54,Intellectual Disability,93422
+WA,35-54,Multiple Sclerosis,21439
+WA,35-54,Other,13229
+WA,35-54,Other Neurological,28459
+WA,35-54,Other Physical,28956
+WA,35-54,Psychosocial disability,127908
+WA,35-54,Spinal Cord Injury,16531
+WA,35-54,Stroke,9304
+WA,35-54,Visual Impairment,12411
+WA,55+,ABI,34881
+WA,55+,Autism,77060
+WA,55+,Cerebral Palsy,12366
+WA,55+,Developmental delay,32505
+WA,55+,Down Syndrome,5226
+WA,55+,DsbltyGrp_Missing,135
+WA,55+,Global developmental delay,7593
+WA,55+,Hearing Impairment,25867
+WA,55+,Intellectual Disability,61468
+WA,55+,Multiple Sclerosis,33918
+WA,55+,Other,25254
+WA,55+,Other Neurological,72407
+WA,55+,Other Physical,56171
+WA,55+,Other Sensory/Speech,182
+WA,55+,Psychosocial disability,86812
+WA,55+,Spinal Cord Injury,17166
+WA,55+,Stroke,29440
+WA,55+,Visual Impairment,18443
